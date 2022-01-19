@@ -28,6 +28,19 @@ obs: vc  se quiser add mais de um arquivo , seja um q  criou ,alterou ou ate qua
  5- para salvar suas alterações ,exclusoes
 git commit -m 'escreva sempre aqui o q  foi feito' 
 
+6- add nome aos seus dados do git
+git config --global user.name 'seu  nome'
+
+7- add email aos seus dados do git
+git config --global user.email 'coloque o email'
+
+
+8- impurrando as informações para o servidor
+git push origin master  --> master é o servidor principal
+do seu repositorio remoto
+
+
+
 */
 ?>
 
