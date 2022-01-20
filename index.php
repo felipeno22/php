@@ -1,6 +1,8 @@
 <?php
 
 echo 'hello word';
+echo ''
+
 
 /*
 1- criando a estrutura do git em uma pasta
