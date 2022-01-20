@@ -3,6 +3,8 @@
 echo 'hello word';
 echo 'ola mundo';
 
+
+
 /*
 1- criando a estrutura do git em uma pasta
 no windows (cria uma pasta chamada .git normalmente esta oculta):
